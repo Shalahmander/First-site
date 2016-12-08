@@ -50,7 +50,8 @@ body {
 }
 #nav-list li a{
 	 	color: white;
-	 	font-family: 'Bungee', cursive;
+	 	font-family: 'Roboto', sans-serif;
+	 	font-size:1.7em;
 }
 .navbar .navbar-collapse {
   text-align: center;
